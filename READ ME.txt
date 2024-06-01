@@ -1,0 +1,14 @@
+Install the following for the project:
+
+1. python.exe -m pip install --upgrade pip 
+
+2. pip install opencv-python mediapipe numpy
+
+3. python -m venv myenv
+
+4. pip install opencv-python
+
+
+=> Do not put more than one hand infront of the camera
+=> Only hold up one finger to draw/write
+=> The project performance purely depends on the system configuration 
